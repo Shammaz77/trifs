@@ -1,0 +1,144 @@
+/* home page  */
+.bg-banner-home{
+	padding: 30% 0 30% 0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: -webkit-fill-available;
+	/* filter: brightness(60%); */
+}
+.banner-text{
+	color: #ffff;
+	text-align: center;
+}
+.home-contents{
+	background: #F9F9F9;
+	margin-top: -40px;
+	border-radius: 40px;
+}
+.home-contents .category-home img{
+	width: 68px !important;
+}
+.cat-text{
+	color: rgba(0, 0, 0, 0.6);
+	font-weight: 600;
+}
+.home-places{
+	border-radius: 10px;
+}
+.image-home-places small{
+	padding: 0 10px;
+	color: #ffff;
+	font-weight: 500;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-radius: 7px;
+	margin-bottom: 0;
+	background-color: rgba(136, 136, 129, 0.623);
+}
+.image-home-places{
+	position: relative;
+}
+.heading-main{
+	color: rgba(0, 0, 0, 0.49);
+	font-weight: 600;
+}
+.place-name-top{
+	background: #F6B100;
+	padding: 2px 40px 2px 10px;
+	color: #000;
+	font-weight: 600;
+	border-radius: 0px 5px 5px 0px;
+}
+.place-name-top{
+	position: absolute;
+	top: 15px;
+	left: 0px;
+}
+.inner-top-place{
+	position: relative;
+}
+.icon-imgs img{
+	width: 68px !important;
+}
+.inner-col-tips{
+	background: #ffff;
+	border-radius: 10px;
+	padding: 10px;
+	display: flex;
+}
+.thumbnail-img{
+	width: 150px;
+}
+.recomended-packages{
+	padding: 14px;
+	border-radius: 10px;
+	background: #fff;
+}
+.rec-packages{
+	border-radius: 10px;
+}
+.packages-details{
+	display: flex;
+	justify-content: space-between;
+}
+.rate-package{
+	color: #00A6F6;
+	font-weight: 500;
+	font-size: 15px;
+	margin-right: 11px;
+}
+.orgnl-rate{
+	color: rgba(0, 0, 0, 0.3);
+	font-weight: 500;
+	font-size: 15px;
+	margin-right: 5px;
+}
+.offer-price{
+	color: #F6B100;
+	font-size: 15px;
+}
+.package-place-name{
+	font-size: 15px;
+	color: rgba(0, 0, 0, 0.6)
+}
+.package-sub{
+	display: flex;
+}
+.location-img{
+	width: 35px !important;
+	margin-left: 8px;
+}
+.location-div{
+	background: rgba(148, 148, 148, 0.6);
+	backdrop-filter: blur(2.5px);
+	width: max-content !important;
+	display: flex;
+	border-radius: 16px;
+	align-items: center;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	color: #fff;
+}
+/* tours page style  */
+.view-all{
+	color: #00A6F6;
+}
+.two-head{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.btns-places{
+	text-align: center;
+	background: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.02);
+	border-radius: 15px;
+	padding: 10px;
+}
+.bg-color{
+	background: #EEF9FF;
+}
