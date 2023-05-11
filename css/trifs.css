@@ -142,3 +142,102 @@
 .bg-color{
 	background: #EEF9FF;
 }
+.travel-box img{
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+.travel-box{
+	border: 1.42241px solid #D8D8D8;
+	border-radius: 14px;
+}
+.vehicle-details{
+	padding: 10px;
+	background: #fff;
+	border-bottom-left-radius: 14px;
+	border-bottom-right-radius: 14px;
+}
+.name-price{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.grey-text{
+	color: #B3B3B3;
+}
+.inner-houseboat{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.sub-inner{
+	width: 50%;
+}
+.rght-innr{
+	background: #ffffff;
+	padding: 10px;
+	border-top-right-radius: 14px;
+	border-bottom-right-radius: 14px;
+}
+.house-bt-img{
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	height: -webkit-fill-available;
+}
+.right-txtt{
+	display: table;
+	margin-left: auto;
+}
+.v-bold{
+	font-weight: 600;
+	color: #000;
+}
+.hsbt .swiper-slide{
+	border-radius: 14px !important;
+}
+.sldr-hsboat{
+	border-top-left-radius: 14px;
+	border-top-right-radius: 14px;
+}
+.slider-contn-det{
+	padding: 10px;
+	background: #fff;
+	border-bottom-left-radius: 14px;
+	border-bottom-right-radius: 14px;
+}
+.slider-houseboat{
+	border-radius: 14px;
+}
+.swiper-pagination{
+	display: none !important;
+}
+.category-home{
+	position: relative;
+}
+.trvl-sld-btns{
+	background: #fff;
+	padding: 10px 30px 10px 30px;
+	border-radius: 9px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
+.all-btn{
+	color: #000;
+	font-weight: 600;
+}
+/* .swp-sld-btns .card.swiper-slide{
+	width: max-content !important;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+

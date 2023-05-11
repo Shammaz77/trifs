@@ -54,3 +54,127 @@ h5 {
 .nav-itemss .ri-search-line{
 	margin-right: 15px;
 }
+.light-grey-text{
+	color: rgba(0, 0, 0, 0.49);
+	font-weight: 600;
+}
+.yellow-text{
+	color: #F6B100;
+}
+.ftr-nav{
+	background: #ffffff;
+	color: #00A6F6;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+.ftr-nav .items-ftr i{
+	font-size: 24px;
+	margin-bottom: 0px !important;
+	text-align: center;
+}
+.ftr-items{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 7px !important;
+	padding-bottom: 7px !important;
+}
+.items-ftr{
+	display: grid;
+}
+.ftr-text-sml{
+	margin-top: -6px;
+	font-weight: 600;
+}
+.bg-smng-sn{
+	background: #00A6F6;
+	padding: 1px 2px 0px 2px;
+	border-radius: 4px;
+	color: #fff;
+	position: absolute;
+	bottom: 20px;
+	width: 100%;
+	left: 0px;
+}
+.global-page-sld .swiper-slide {
+	width: 120px !important;
+	height: unset !important;
+
+}
+.global-page-sld .places-sldr img{
+	border-radius: 25px !important;
+}
+.places-sldr{
+	text-align: center;
+}
+
+
+.slider-home-places .swiper-slide {
+	width: 180px !important;
+}
+/* .swiper-slide.swiper-slide-active {
+	margin: 15px !important;
+	background: unset !important;
+	left: 17px;
+	right: 17px;
+} */
+
+.tours-page-slider-rec-places .swiper-slide {
+  width: 200px !important;
+}
+.slider-bg{
+	position: relative;
+}
+.place-name-tours-slider{
+	position: absolute;
+	bottom: 0px;
+	background: rgba(0, 0, 0, 0.4);
+	border: 1.05155px solid rgba(255, 255, 255, 0.37);
+	border-radius: 3.15464px;
+	width: 100%;
+	color: #fff;
+	padding-left: 10px;
+	font-weight: 400;
+}
+ .swiper-slide{
+  width: max-content !important; 
+	text-align: center;
+}
+.main-vertcl{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.main-sub-verticl{
+	width: 48%;
+}
+.more-text{
+	color: #fff;
+	text-align: center;
+}
+.place-name-sldr{
+	background: #ffffff;
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 0px !important;
+}
+.slider-bg-white{
+	background: #FFFFFF;
+	border: 0.566502px solid rgba(0, 0, 0, 0.1);
+	box-shadow: 2.26601px 2.26601px 8.49754px rgba(0, 0, 0, 0.01);
+	border-radius: 5px;
+	padding: 4px;
+}
+.swiper-slide.sld-hs {
+	width: 300px !important;
+}
+
+
+
+
+
+
+
+
+
