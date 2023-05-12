@@ -170,7 +170,9 @@ h5 {
 .swiper-slide.sld-hs {
 	width: 300px !important;
 }
-
+.bk-slider{
+	z-index: 0 !important;
+}
 
 
 
